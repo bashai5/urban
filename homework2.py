@@ -1,3 +1,4 @@
+#Практическое задание по работе в Pycharm - "Переменные".
 course = 'Python'
 total_tasks = 12
 hours_spent = 1.5
