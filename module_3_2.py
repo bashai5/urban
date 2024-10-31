@@ -1,3 +1,4 @@
+# Домашняя работа по уроку "Способы вызова функции"
 def send_email(message, recipient, *, sender='university.help@gmail.com'):
     a = '@'
     while 1 > 0:
