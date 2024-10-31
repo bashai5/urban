@@ -26,5 +26,7 @@ a = 17
 Name: John
 
 Age: 25
+
 New Age: 26
+
 Is Student: True
